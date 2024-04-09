@@ -1,5 +1,9 @@
 # TheOdinProject-SignUp-Form-Project
 
+## CAUTION NOTE!
+
+### This is **NOT** a real online service, do **NOT** enter any sensitive/personal data!
+
 ## Live Demo
 
 https://aquarush.github.io/TheOdinProject-SignUp-Form-Project/
