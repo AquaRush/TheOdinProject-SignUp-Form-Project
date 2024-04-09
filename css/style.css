@@ -1,0 +1,8 @@
+body {
+  font-family: "Signika Negative", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 300;
+  font-style: normal;
+  background: url("../imgs/bg.jpg") no-repeat center fixed;
+  min-height: 100%;
+}
