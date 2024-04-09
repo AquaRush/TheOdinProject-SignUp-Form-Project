@@ -6,7 +6,7 @@
 
 ## Live Demo
 
-https://aquarush.github.io/TheOdinProject-SignUp-Form-Project/
+[Live Demo Preview](https://aquarush.github.io/TheOdinProject-SignUp-Form-Project/)
 
 ## Project Assignment
 
