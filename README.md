@@ -25,6 +25,6 @@ Shall you encounter any bugs, do not hesitate to open an issue!
 
 ## Credits
 
-**TheOdinProject** - curriculum project, assets & assignment.
-**Freepik** - great logo for the project.
+**TheOdinProject** - curriculum project, assets & assignment.  
+**Freepik** - great logo for the project.  
 **Stephan Seeber** - for the astonishing mountain photography.
