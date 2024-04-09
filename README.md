@@ -1,5 +1,9 @@
 # TheOdinProject-SignUp-Form-Project
 
+## Live Demo
+
+https://aquarush.github.io/TheOdinProject-SignUp-Form-Project/
+
 ## Project Assignment
 
 I have included a picture of all the rules and tips for the project.
