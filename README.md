@@ -1,4 +1,4 @@
-# TheOdinProject-SignUp-Form-Project
+# TheOdinProject | SignUp Form Project
 
 ## CAUTION NOTE!
 
